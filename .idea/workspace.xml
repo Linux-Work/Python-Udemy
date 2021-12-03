@@ -3,12 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="8c8fe4e8-8e3c-4a5d-bbfd-8474b7d8ca29" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/100+Days+of+Python+Check+Off+Posters.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coding+Notebook+Sheets+to+Print.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course+Pledge+-+App+Brewery+100+Days+of+Python.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python+Syntax+Cheat+Sheet+Booklet.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Syllabus+for+100+Days+of+Python.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/100+Days+of+Python+Check+Off+Posters.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/PDF/100+Days+of+Python+Check+Off+Posters.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding+Notebook+Sheets+to+Print.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/PDF/Coding+Notebook+Sheets+to+Print.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course+Pledge+-+App+Brewery+100+Days+of+Python.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/PDF/Course+Pledge+-+App+Brewery+100+Days+of+Python.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python+Syntax+Cheat+Sheet+Booklet.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/PDF/Python+Syntax+Cheat+Sheet+Booklet.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Syllabus+for+100+Days+of+Python.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/PDF/Syllabus+for+100+Days+of+Python.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
